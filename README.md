@@ -55,6 +55,7 @@ These same basic steps can be followed to update your README.md file and add new
 4. Now you will be able to 'ssh' links rather than 'https' when dealing with repositories.
 
 ## Extra Resources
+- [Git and GitHub Basics](https://trailhead.salesforce.com/en/modules/git-and-git-hub-basics/units/work-with-the-git-hub-workflow) from Salesforce
 - Here is a guide for git called [git - the simple guide](http://rogerdudler.github.io/git-guide/)
 - Another good resource for git is the Atlassian [site](https://www.atlassian.com/git/tutorials/); Atlassian created bitbucket, an alternative to github, so these tutorials reference bitbucket, but git will be the same **Need better wording here
 - Some extra fun stuff for markdown: [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), [online md editor](https://jbt.github.io/markdown-editor) for those that like visualization
